@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "f3af5d9e-e083-480b-93c7-245d94965a3e",
+      "email": "test@gmail.com",
+      "password": "$2a$10$eDYGAUELvdFqHgnG9Y44xOdfkadTptz20Suo/9UJyh0FEvztJoEUK"
+    },
+    {
+      "id": "0e3322b8-628c-4a9e-9e9a-2ba1eeba5e10",
+      "email": "test2@gmail.com",
+      "password": "$2a$10$bhLuZsxHGqsTSDxmb1eaDOewl1poL78gXCvTlDsKd0eAhXQ4cKu8u"
+    }
+  ],
+  "chats": []
+}
